@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to moveto's documentation!
+Moveto Move Compiler for Solana
 ==================================
+Moveo is a Move language compiler for Solana and it uses LLVM framework to compile smart wontracts written to move language to optimised BPF code 
+
 
 .. toctree::
    :maxdepth: 2
