@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'moveto'
-copyright = '2022, Harshith (lax)'
-author = 'Harshith (lax)'
+copyright = '2022, L Harshith'
+author = 'L Harshith'
 
 
 # -- General configuration ---------------------------------------------------
